@@ -37,5 +37,8 @@ More info about dataset can be found here:
 ## Data Model
 <img src="data_model.jpeg">
 
+## Possible Data Exploration
+<img src='data mining.jpg'>
+
 ## Data Dashboard
 <img src='uber_dashboard_demo.png'>
